@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-#include "S05.h"
 #include "Gun.h"
+#include "S05.h"
 #include "BallProjectile.h"
 #include "Kismet/GameplayStatics.h"
 #include "Animation/AnimInstance.h"
